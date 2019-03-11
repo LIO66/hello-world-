@@ -1,0 +1,13 @@
+body{
+  padding:0;
+  margin:0;
+  font-family: comic sans ms;
+  background:#333;
+  color:crimson;
+}
+.box{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+}
